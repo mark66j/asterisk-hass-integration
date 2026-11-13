@@ -2,14 +2,14 @@
     "domain": "asterisk",
     "name": "Asterisk",
     "codeowners": [
-        "@TECH7Fox"
+        "@mark66j"
     ],
     "config_flow": true,
     "dependencies": [],
-    "documentation": "https://github.com/TECH7Fox/Asterisk-integration",
+    "documentation": "mark66j/asterisk-hass-integration",
     "homekit": {},
     "iot_class": "local_polling",
-    "issue_tracker": "https://github.com/TECH7Fox/Asterisk-integration/issues",
+    "issue_tracker": "https://github.com/mark66j/Asterisk-integration/issues",
     "loggers": ["custom_components.asterisk"],
     "requirements": ["asterisk-ami>=0.1.7"],
     "ssdp": [],
