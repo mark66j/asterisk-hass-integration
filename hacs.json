@@ -1,3 +1,6 @@
 {
-  "name": "Asterisk integration"
+  "name": "Asterisk integration",
+  "content_in_root": true,
+  "render_readme": true
 }
+
